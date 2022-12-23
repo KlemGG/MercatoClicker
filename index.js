@@ -1,4 +1,4 @@
-money = 10000000000;
+money = 0;
 moneyup = 1;
 msec = 1 ;
 upcost = 15;
